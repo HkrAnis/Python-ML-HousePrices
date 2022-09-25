@@ -10,7 +10,8 @@ The repository tackles the first project of the book. The project provides a ste
 
 ### Files you'll find 
 * README.md file 
-* The data.csv data-set
-* The code.ipynb python file 
+* 211015_notebook_code.ipynb -> jupiter notebook
+* 211015_code.py -> code 
+* housing.csv -> dataset used 
 
 
